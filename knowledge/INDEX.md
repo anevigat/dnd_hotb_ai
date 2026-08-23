@@ -10,6 +10,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `characters/clase-mago.md` | characters (tablero de clase oficial) | PDF "Hotb mago" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
 | `characters/clase-guerrero.md` | characters (tablero de clase oficial) | PDF "Hotb guerrero" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
 | `characters/clase-clerigo.md` | characters (tablero de clase oficial) | PDF "Hotb clérigo" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
+| `characters/clase-picaro.md` | characters (tablero de clase oficial) | PDF "Hotb pícaro" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
