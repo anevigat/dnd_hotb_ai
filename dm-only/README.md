@@ -16,3 +16,5 @@ Se consulta solo cuando el usuario (el DM) pide ayuda explícita "como DM" para 
 | `cuevas-del-caos/README.md` | Libro de aventura completo: tabla de las 11 cuevas, mapa del barranco y conexiones entre cuevas, reglas de exploración | PDF "Hotb las cuevas del caos.pdf" (libro de aventura oficial) | 2026-08-23 |
 | `cuevas-del-caos/cueva-a-guarida-kobolds.md` … `cueva-k-santuario-caos-malevolo.md` (11 archivos) | Cada cueva: zonas, monstruos, trampas, tesoros y soluciones | PDF "Hotb las cuevas del caos.pdf" | 2026-08-23 |
 | `rumores-pnj.md` | Veracidad (verdadero/falso) de los rumores de los 20 PNJs de la fortaleza | PDF "Hotb pnj.pdf" (20 cartas de PNJ oficiales) | 2026-08-23 |
+| `la-espesura/README.md` | Libro de aventura completo: 4 regiones silvestres, tablas de encuentros, progreso de nivel | PDF "Hotb la espesura.pdf" (libro de aventura oficial) | 2026-08-23 |
+| `la-espesura/region-1-sendero.md` … `region-4-soto-alerces.md` (4 archivos) + `encuentros-aleatorios.md` | Cada región: encuentros, PNJs, monstruos, tesoros, soluciones y tablas 1d8 adicionales | PDF "Hotb la espesura.pdf" | 2026-08-23 |
