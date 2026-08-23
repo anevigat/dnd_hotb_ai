@@ -22,6 +22,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `spells/conjuros.md` | spells (cartas de conjuro oficiales) | PDF "Hotb conjuros.pdf" (44 cartas: trucos, nivel 1 y nivel 2 de mago y clérigo) | 2026-08-23 | no |
 | `items/equipo.md` | items (cartas de equipo no mágico oficiales) | PDF "Hotb equipo.pdf" (33 cartas: armas, armaduras, herramientas, equipo de aventureros) | 2026-08-23 | no |
 | `items/folletos-precios-fortaleza.md` | items (folletos de precios oficiales) | PDF "Hotb folletos.pdf" (4 folletos: comerciante, menú de El Dragón Borracho, servicios sagrados, tienda de suministros) | 2026-08-23 | no |
+| `rules/hotb-registro-de-combate.md` | rules (componente físico oficial) | PDF "Hotb registro de combate.pdf" (hoja en blanco de seguimiento de combate) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `items`, `spells`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
