@@ -20,6 +20,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `characters/pnjs-fortaleza-frontera.md` | characters (cartas de PNJ oficiales) | PDF "Hotb pnj.pdf" (20 cartas: roles, carta de monstruo asociada, rasgos de personalidad) | 2026-08-23 | no |
 | `items/objetos-magicos.md` | items (cartas de objeto mágico oficiales) | PDF "Hotb objetos mágicos.pdf" (20 cartas/18 objetos únicos: armas +1, armadura, objetos maravillosos, pociones, pergamino de conjuro) | 2026-08-23 | no |
 | `spells/conjuros.md` | spells (cartas de conjuro oficiales) | PDF "Hotb conjuros.pdf" (44 cartas: trucos, nivel 1 y nivel 2 de mago y clérigo) | 2026-08-23 | no |
+| `items/equipo.md` | items (cartas de equipo no mágico oficiales) | PDF "Hotb equipo.pdf" (33 cartas: armas, armaduras, herramientas, equipo de aventureros) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `items`, `spells`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
