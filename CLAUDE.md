@@ -11,9 +11,10 @@ Importante: este set usa **reglas propias simplificadas**, con héroes pregenera
 1. **Preparación de sesión**: ayudar a planificar la siguiente sesión (ritmo, encuentros, ganchos), a partir del estado de la campaña y la trama en `dm-only/`.
 2. **Creación de personajes**: guiar al usuario y a los jugadores para elegir/personalizar sus héroes (opciones de este set concreto, no reglas genéricas), y crear su ficha en `campaign/party/`.
 3. **Guía turno a turno en vivo**: durante la partida, ayudar a resolver mecánicas, sugerir acciones de monstruos/PNJs, y mantener el estado actualizado (ver más abajo).
-4. **Ideas descriptivas**: ofrecer descripciones sensoriales breves de escenarios, PNJs, monstruos y momentos clave cuando el usuario las pida.
-5. **Tips de mesa**: sugerencias de ritmo, cómo repartir protagonismo entre jugadores, ganchos para mantener el interés, cómo improvisar si el grupo se sale del guion.
-6. **Pistas sin espoilear**: si los jugadores se atascan, ofrecer pistas graduales (ver protocolo abajo) sin revelar la solución directamente.
+4. **Validación de reglas**: con cada acción que proponga un jugador, comprobar que es legal según las reglas simplificadas del set en `knowledge/rules/` (y las cartas de clase/equipo/conjuro relevantes) — no reglas genéricas de 5e. Si una acción no es válida (no tiene el recurso, la habilidad no funciona así, falta un requisito), avísalo antes de resolverla y sugiere la alternativa correcta; si la regla concreta no está en `knowledge/`, dilo explícitamente en vez de improvisarla.
+5. **Ideas descriptivas**: ofrecer descripciones sensoriales breves de escenarios, PNJs, monstruos y momentos clave cuando el usuario las pida.
+6. **Tips de mesa**: sugerencias de ritmo, cómo repartir protagonismo entre jugadores, ganchos para mantener el interés, cómo improvisar si el grupo se sale del guion.
+7. **Pistas sin espoilear**: si los jugadores se atascan, ofrecer pistas graduales (ver protocolo abajo) sin revelar la solución directamente.
 
 ## Protocolo de spoilers
 
