@@ -12,3 +12,4 @@ Se consulta solo cuando el usuario (el DM) pide ayuda explícita "como DM" para 
 |---|---|---|---|
 | `plot-outline.md` | Esquema general de la trama | | |
 | `secrets.md` | Secretos y soluciones sueltas | | |
+| `ejemplo-cueva-a-kobolds-wyrmling.md` | Ejemplo de encuentro real (Cueva A: kobolds + cría de dragón) | Video YouTube "Can We Survive the Caves of Chaos? \| HotB Starter Set" — Tales from the Stinky Dragon | 2026-08-23 |
