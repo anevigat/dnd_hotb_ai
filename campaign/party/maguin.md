@@ -1,0 +1,22 @@
+# Maguín (jugador: —)
+
+- **Clase**: Mago, nivel 1
+- **Especie**: Humano
+- **Trasfondo**: Erudito
+- **Nivel/capítulo actual**: Nivel 1 — inicio de campaña (La Espesura, Región 1: Sendero)
+- **HP máximos**: 7
+- **Estadísticas/habilidades clave**:
+  - Mods: Fuerza +0, Destreza +2, Constitución +1, Inteligencia +3, Sabiduría +2, Carisma -1
+  - Habilidades altas: Conocimiento arcano/Historia/Investigación/Naturaleza +5, Religión +3
+  - Débil en social: Engaño, Interpretación, Intimidación, Persuasión -1 (aunque Humano "Agradable" suma +2 a Persuasión, quedando en +1 neto)
+  - Iniciativa +2
+  - CA 12 (sin armadura física; *armadura de mago* la sustituye si se lanza)
+- **Equipo**: libro de conjuros — 60 po iniciales
+- **Rasgos/trasfondo**:
+  - **Lanzamiento de conjuros** (rasgo de clase, 2 fichas de poder nivel 1): gasta 1 ficha para lanzar un conjuro de nivel 1 preparado; los trucos no cuestan ficha.
+  - Trucos iniciales: *agarre electrizante*, *luz*, *rayo de escarcha*.
+  - Conjuros de nivel 1 disponibles para preparar (elige 4): *armadura de mago*, *caída de pluma*, *dormir*, *luz*, *manos ardientes*, *ola atronadora*, *proyectil mágico*, *rayo de escarcha*.
+  - **Humano**: Agradable (+2 Persuasión), Ingenioso (inspiración heroica tras descanso largo), Afortunado (2 fichas de "buena fortuna": ventaja en una prueba, o desventaja al ataque de un enemigo contra él).
+  - **Erudito**: conoce los trucos *mano de mago* y *mensaje*, y puede lanzar *escudo* gastando la ficha de la carta — **requiere tener esas 3 cartas de conjuro** en el set físico, aún no confirmadas.
+  - **Historia**: 18 años, español. Le mueve proteger a sus amigos — encaja con jugar de apoyo/control (conjuros de área, *escudo* para sí o compañeros).
+- **Notas de progresión**: (qué ha ido desbloqueando capítulo a capítulo) — pendiente, nivel 1 recién creado.

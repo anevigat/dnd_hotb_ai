@@ -1,0 +1,23 @@
+# Chancla (jugador: —)
+
+- **Clase**: Clériga, nivel 1
+- **Especie**: Enana
+- **Trasfondo**: Acólito
+- **Nivel/capítulo actual**: Nivel 1 — inicio de campaña (La Espesura, Región 1: Sendero)
+- **HP máximos**: 9 (8 base + 1 "Aguante de enano")
+- **Estadísticas/habilidades clave**:
+  - Mods: Fuerza +2, Destreza -1, Constitución +0, Inteligencia +1, Sabiduría +3, Carisma +2
+  - Salvaciones altas: Sabiduría +5, Carisma +4, Fuerza +2
+  - Habilidades destacadas: Religión +6, Conocim. arcano +4, Medicina/Percepción/Perspicacia/Supervivencia/Trato con animales +5, Persuasión/Interpretación +2
+  - Débil en Destreza: Acrobacias, Juego de manos, Sigilo -1
+  - Iniciativa -1
+  - CA 9 (camisa de malla; con escudo no puede lanzar conjuros mientras lo embraza)
+  - Visión en la oscuridad 36 m (Enana)
+- **Equipo**: camisa de malla, maza — 60 po iniciales
+- **Rasgos/trasfondo**:
+  - **Lanzamiento de conjuros** (rasgo de clase, 2 fichas de poder nivel 1): gasta 1 ficha para lanzar un conjuro de nivel 1 preparado; los trucos no cuestan ficha.
+  - Conjuros de nivel 1 disponibles: *bendición*, *curar heridas*, *escudo de fe*, *llama sagrada*, *luz*, *saeta guía*, *tañido por los muertos*, *taumaturgia*.
+  - **Enana**: Aguante de enano (+1 PG máx., +1 más cada subida de nivel), Resistencia de enano (resistencia a veneno, ventaja vs. envenenado), Visión en la oscuridad 36 m, Afinidad con la piedra (1 ficha de poder, sentir vibraciones a través de la piedra).
+  - **Acólito**: conoce los trucos *guía* y *piedad con los moribundos*, y puede lanzar *detectar el bien y el mal* gastando la ficha de la carta — **requiere tener esas 3 cartas de conjuro** en el set físico, aún no confirmadas.
+  - **Historia**: la más veterana del grupo (edad no revelada), ha conocido a muchos guerreros y magos y sabe mucho de hechizos — encaja con el rol de sanadora/soporte sabia del grupo.
+- **Notas de progresión**: (qué ha ido desbloqueando capítulo a capítulo) — pendiente, nivel 1 recién creado.
