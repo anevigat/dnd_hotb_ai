@@ -11,6 +11,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `characters/clase-guerrero.md` | characters (tablero de clase oficial) | PDF "Hotb guerrero" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
 | `characters/clase-clerigo.md` | characters (tablero de clase oficial) | PDF "Hotb clérigo" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
 | `characters/clase-picaro.md` | characters (tablero de clase oficial) | PDF "Hotb pícaro" (tablero de clase, niveles 1-3, caja oficial) | 2026-08-23 | no |
+| `rules/hotb-guia-de-juego-parte1.md` | rules (HotB oficial, libro de consulta) | PDF "Hotb libro de consulta parte 1.pdf" (pág. 2-16 de 31: componentes, pruebas d20, acciones, exploración, combate, daño/curación, estados — falta conjuros y glosario en parte 2) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
