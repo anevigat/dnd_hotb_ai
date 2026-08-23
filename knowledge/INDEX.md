@@ -17,6 +17,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `characters/especies.md` | characters (cartas de especie oficiales) | PDF "Hotb especies.pdf" (8 cartas: humano/a, mediano/a, elfo/a, enano/a) | 2026-08-23 | no |
 | `characters/trasfondos.md` | characters (cartas de trasfondo oficiales) | PDF "Hotb trasfondos.pdf" (8 cartas: soldado, erudito, ermitaño, guía, campesino, animador, criminal, acólito) | 2026-08-23 | no |
 | `monsters/bestiario-monstruos.md` | monsters (cartas de monstruo oficiales) | PDF "Hotb monstruos.pdf" (42 cartas, 4 por página salvo la última con 2) | 2026-08-23 | no |
+| `characters/pnjs-fortaleza-frontera.md` | characters (cartas de PNJ oficiales) | PDF "Hotb pnj.pdf" (20 cartas: roles, carta de monstruo asociada, rasgos de personalidad) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
