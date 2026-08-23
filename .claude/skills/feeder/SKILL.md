@@ -16,8 +16,29 @@ Alimenta `knowledge/` y `dm-only/` a partir de material que el usuario proporcio
 ## 2. Extrae el contenido
 
 - PDF e imágenes: léelos directamente con la herramienta de lectura de archivos.
-- Vídeo con link: intenta obtener la transcripción/subtítulos con una herramienta de fetch sobre la URL. Si no es posible obtener texto útil, dile al usuario que no se pudo extraer automáticamente y pídele que pegue la transcripción o un resumen manual — no sigas sin contenido real.
-- Vídeo con transcripción ya pegada: úsala directamente.
+- **Vídeo con link de YouTube**: usa `yt-dlp` (herramienta instalada en el sistema) para extraer los subtítulos sin descargar el vídeo:
+
+  ```bash
+  # Subtítulos manuales en español (si el vídeo los tiene)
+  yt-dlp --write-sub --skip-download --sub-lang es "URL"
+
+  # Si no hay manuales, usar los autogenerados (caso más común)
+  yt-dlp --write-auto-sub --skip-download --sub-lang es "URL"
+
+  # Convertir a texto plano más fácil de leer
+  yt-dlp --write-auto-sub --skip-download --sub-lang es --convert-subs srt "URL"
+  ```
+
+  Ejecuta esto en el directorio scratchpad de la sesión (no en el repo). El `.srt` resultante trae numeración y timestamps: límpialo antes de leerlo, por ejemplo:
+
+  ```bash
+  grep -vE '^[0-9]+$|-->|^$' archivo.srt | awk '!seen[$0]++' > archivo_plain.txt
+  ```
+
+  Si `yt-dlp` no está instalado o falla (vídeo privado, sin subtítulos en ningún idioma), dile al usuario y pídele que pegue la transcripción o un resumen manual — no sigas sin contenido real.
+- Vídeo con transcripción ya pegada por el usuario: úsala directamente.
+
+**Importante (derechos de autor)**: nunca copies la transcripción literal a los archivos del repo. Léela, y escribe una síntesis/resumen en tus propias palabras de lo relevante para jugar (reglas, dinámica, ideas) — igual que con PDFs e imágenes en el paso 4.
 
 ## 3. Clasifica el contenido
 

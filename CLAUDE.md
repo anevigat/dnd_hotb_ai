@@ -43,6 +43,10 @@ Importante: este set usa **reglas propias simplificadas**, con héroes pregenera
 - Al describir escenas o PNJs: pocos detalles sensoriales bien elegidos, mejor que listas exhaustivas.
 - Al dar tips de mesa: directos y accionables, con el porqué breve si no es obvio.
 
+## Flujo de trabajo con git
+
+Este repo está en `git@github.com:anevigat/dnd_hotb_ai.git`. Hay un hook (`.claude/settings.json`, evento `Stop`) que, al terminar cada turno, si hay cambios pendientes los commitea y pushea automáticamente a `main` — no hace falta pedirlo cada vez.
+
 ## Privacidad
 
 Este es un **proyecto personal**, separado de cualquier tarea laboral del usuario.
