@@ -7,6 +7,8 @@ description: Abre una nueva sesión de juego de D&D Heroes of the Borderlands. C
 
 ## 1. Lee el estado existente
 
+Carga solo estos archivos (pequeños, de estado) — no hace falta abrir `knowledge/` ni `dm-only/` en este paso:
+
 - El último `campaign/sessions/session-NN-summary.md` (si existe alguno).
 - `campaign/state/world-state.md`.
 - `campaign/state/current-session.md` (por si quedó algo sin cerrar de una sesión anterior — avisa al usuario si es el caso).

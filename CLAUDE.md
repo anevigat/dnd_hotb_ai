@@ -30,6 +30,16 @@ Importante: este set usa **reglas propias simplificadas**, con héroes pregenera
 - Antes de responder dudas de reglas, mapas, personajes o monstruos, revisa `knowledge/INDEX.md` y cita el archivo fuente.
 - El contenido se alimenta con el skill `feeder` (PDFs, capturas, vídeos de YouTube). Si falta información, pide al usuario que la añada así en vez de improvisar reglas oficiales.
 
+## Carga de contexto (gestión de tokens)
+
+Al abrir una sesión en este repo, lo único que se precarga es este archivo y los nombres/descripciones de los skills — `knowledge/`, `dm-only/` y `campaign/` **no** se cargan solos. Carga el resto a demanda, siguiendo siempre el índice correspondiente en vez de la carpeta entera:
+
+- Reglas/mapas/personajes/monstruos → `knowledge/INDEX.md`, luego solo el archivo fuente concreto que aplica.
+- Trama/secretos → `dm-only/README.md`, luego solo el archivo concreto (y solo si el usuario pide ayuda "como DM", según el protocolo de arriba).
+- Estado de campaña → se carga con `/session-start` (ver abajo); no hace falta abrir `campaign/sessions/` salvo que se pida un resumen concreto de una sesión pasada.
+- Si un archivo es grande y solo necesitas una entrada suelta (p. ej. un monstruo de `monsters/bestiario-monstruos.md` o un conjuro de `spells/conjuros.md`), busca esa entrada primero (grep) en vez de leer el archivo completo cuando sea posible.
+- No releas un archivo que ya esté en el contexto de esta conversación.
+
 ## Estado en vivo de la partida (`campaign/`)
 
 - Durante una sesión, mantén `campaign/state/current-session.md` actualizado en tiempo real: HP y recursos de cada personaje, inventario, posición en el mapa, iniciativa/turno, condiciones activas. Actualízalo cada vez que algo cambie en la narración, no solo al final.
