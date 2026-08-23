@@ -14,6 +14,7 @@ Cada entrada añadida por el skill `feeder` debe registrarse aquí con una líne
 | `rules/hotb-guia-de-juego-parte1.md` | rules (HotB oficial, libro de consulta) | PDF "Hotb libro de consulta parte 1.pdf" (pág. 2-16 de 31: componentes, pruebas d20, acciones, exploración, combate, daño/curación, estados) | 2026-08-23 | no |
 | `rules/hotb-guia-de-juego-parte2.md` | rules (HotB oficial, libro de consulta) | PDF "Hotb libro de consulta parte 2.pdf" (pág. 17-31 de 31: lanzamiento de conjuros, ejemplo de combate y daño, descansos, glosario de reglas, créditos) | 2026-08-23 | no |
 | `rules/hotb-en-tu-turno.md` | rules (carta de referencia para jugadores) | PDF "Hotb en tu turno.pdf" (carta que se reparte a cada jugador: estructura del turno y lista de acciones) | 2026-08-23 | no |
+| `characters/especies.md` | characters (cartas de especie oficiales) | PDF "Hotb especies.pdf" (8 cartas: humano/a, mediano/a, elfo/a, enano/a) | 2026-08-23 | no |
 
 **Categorías**: `rules`, `maps`, `characters`, `monsters`, `video-notes`.
 **Spoiler**: si el contenido revela trama/secretos, va en `dm-only/` en vez de aquí, y se indexa en `dm-only/README.md` en lugar de esta tabla.
