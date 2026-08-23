@@ -10,9 +10,9 @@
 
 | Personaje | HP actual/máx | Condiciones | Inventario relevante | Posición en el mapa |
 |---|---|---|---|---|
-| Lupin (Guerrero elfo) | 11/12 | — | arco corto, cota de malla, espadón, farol, 5 po (+ parte de 22 po de grupo) | Sendero — encuentro 3 (rastro de Haldryck) |
-| Maguín (Mago humano) | 3/7 | — | libro de conjuros, 60 po (+ parte de 22 po de grupo) | Sendero — encuentro 3 (rastro de Haldryck) |
-| Chancla (Clériga enana) | 9/9 | — | camisa de malla, maza, 60 po (+ parte de 22 po de grupo) | Sendero — encuentro 3 (rastro de Haldryck, se quedó atrás) |
+| Lupin (Guerrero elfo) | 11/12 | — | arco corto, cota de malla, espadón, farol, 5 po (+ parte de 27 po de grupo) | Sendero — llegando al encuentro 4 (Pral) |
+| Maguín (Mago humano) | 7/7 | — | libro de conjuros, 60 po (+ parte de 27 po de grupo) | Sendero — llegando al encuentro 4 (Pral) |
+| Chancla (Clériga enana) | 9/9 | — | camisa de malla, maza, 60 po (+ parte de 27 po de grupo) — 1 ficha de poder gastada (curar heridas a Maguín) | Sendero — llegando al encuentro 4 (Pral) |
 
 ## Iniciativa / turno actual
 
