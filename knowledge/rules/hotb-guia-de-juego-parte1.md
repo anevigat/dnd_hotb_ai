@@ -2,7 +2,7 @@
 
 > **Fuente**: "Guía de juego" (libro de consulta oficial de la caja), páginas 2-16. Síntesis en palabras propias, no copia literal del PDF.
 > **Alcance**: reglas propias de este set (simplificadas respecto a D&D 5e completo). Tiene prioridad sobre `dnd5e-reglas-generales.md` en caso de conflicto.
-> **Pendiente**: esta es solo la primera mitad del libro (hasta "Estados", pág. 16). Faltan por ingerir: Lanzamiento de conjuros, Ejemplo de combate y daño, y el Glosario de reglas completo (pág. 17-31) — vendrán en la parte 2.
+> **Continúa en**: `hotb-guia-de-juego-parte2.md` (pág. 17-31: lanzamiento de conjuros, ejemplo de combate y daño, descansos, glosario de reglas y créditos).
 
 ## Componentes del juego
 
