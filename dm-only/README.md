@@ -18,3 +18,5 @@ Se consulta solo cuando el usuario (el DM) pide ayuda explícita "como DM" para 
 | `rumores-pnj.md` | Veracidad (verdadero/falso) de los rumores de los 20 PNJs de la fortaleza | PDF "Hotb pnj.pdf" (20 cartas de PNJ oficiales) | 2026-08-23 |
 | `la-espesura/README.md` | Libro de aventura completo: 4 regiones silvestres, tablas de encuentros, progreso de nivel | PDF "Hotb la espesura.pdf" (libro de aventura oficial) | 2026-08-23 |
 | `la-espesura/region-1-sendero.md` … `region-4-soto-alerces.md` (4 archivos) + `encuentros-aleatorios.md` | Cada región: encuentros, PNJs, monstruos, tesoros, soluciones y tablas 1d8 adicionales | PDF "Hotb la espesura.pdf" | 2026-08-23 |
+| `fortaleza-de-la-frontera/README.md` | Libro de aventura completo: los 14 lugares del hub social, misiones y recompensas, secreto de Ivlis | PDF "Hotb la fortaleza de la frontera.pdf" (libro de aventura oficial) | 2026-08-23 |
+| `fortaleza-de-la-frontera/lugar-01-garita-exterior.md` … `lugar-14-ciudadela.md` (14 archivos) | Cada lugar: PNJ, servicios, misión, solución y recompensa | PDF "Hotb la fortaleza de la frontera.pdf" | 2026-08-23 |
