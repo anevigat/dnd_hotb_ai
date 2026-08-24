@@ -17,7 +17,7 @@
 - **Rasgos/trasfondo**:
   - **Lanzamiento de conjuros** (rasgo de clase, 2 fichas de poder nivel 1): gasta 1 ficha para lanzar un conjuro de nivel 1 preparado; los trucos no cuestan ficha.
   - Conjuros de nivel 1 disponibles: *bendición*, *curar heridas*, *escudo de fe*, *llama sagrada*, *luz*, *saeta guía*, *tañido por los muertos*, *taumaturgia*.
-  - **Enana**: Aguante de enano (+1 PG máx., +1 más cada subida de nivel), Resistencia de enano (resistencia a veneno, ventaja vs. envenenado), Visión en la oscuridad 36 m, Afinidad con la piedra (1 ficha de poder, sentir vibraciones a través de la piedra).
+  - **Enana**: Aguante de enano (+1 PG máx., +1 más cada subida de nivel), Resistencia de enano (resistencia a veneno, ventaja vs. envenenado), Visión en la oscuridad 36 m, Afinidad con la piedra (2 fichas de poder propias de la carta, sentir vibraciones a través de la piedra — se recuperan con descanso).
   - **Acólito**: conoce los trucos *guía* y *piedad con los moribundos*, y puede lanzar *detectar el bien y el mal* gastando la ficha de la carta — **requiere tener esas 3 cartas de conjuro** en el set físico, aún no confirmadas.
   - **Historia**: la más veterana del grupo (edad no revelada), ha conocido a muchos guerreros y magos y sabe mucho de hechizos — encaja con el rol de sanadora/soporte sabia del grupo.
 - **Notas de progresión**: (qué ha ido desbloqueando capítulo a capítulo) — pendiente, nivel 1 recién creado.
