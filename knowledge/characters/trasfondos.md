@@ -2,7 +2,9 @@
 
 > **Fuente**: cartas de trasfondo "Hotb trasfondos" de D&D Heroes of the Borderlands (PDF oficial, 8 cartas). Síntesis en palabras propias.
 
-Cuatro trasfondos (Erudito, Guía, Acólito, y no incluido aquí de forma marcada pero implícito) requieren cartas de conjuro específicas para jugarse — se indica en cada uno.
+Tres trasfondos (Erudito, Guía, Acólito) requieren cartas de conjuro específicas para jugarse — se indica en cada uno.
+
+**Círculo punteado = hueco de ficha de poder en la carta.** Solo las cartas de Erudito, Guía y Acólito llevan este círculo punteado impreso (las otras cinco no). Ese hueco es un espacio dedicado para colocar una ficha de poder física, aparte de las fichas del tablero de clase: es lo que permite lanzar el conjuro de bonus del trasfondo (*escudo*, *buenas bayas* o *detectar el bien y el mal* respectivamente) "quitando la ficha de poder de debajo" de la carta. Al gastarla, el hueco queda vacío hasta que se recupere con un descanso (igual que las demás fichas de poder de conjuro).
 
 ## Soldado
 
