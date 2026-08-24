@@ -6,7 +6,8 @@ Flags y hechos que persisten entre sesiones. Se actualiza al cerrar cada sesión
 
 | Misión | Estado | Notas |
 |---|---|---|
-| Explorar La Espesura | En curso | Región 1 (Sendero): 3 de 4 encuentros resueltos (carro saqueado, Mallyn, rastro de Haldryck). Encuentro de Pral intentado y perdido. Quedan regiones 2-4 sin explorar. |
+| Explorar La Espesura | En curso | Región 1 (Sendero): los 4 encuentros de la tabla ya salieron (carro saqueado, Mallyn, rastro de Haldryck, emboscada de Pral — esta última perdida por el grupo). Sendero completo. Quedan regiones 2-4 sin explorar. |
+| Revancha contra Pral | En curso | El grupo, tras descansar largo y recuperar PG/fichas al completo, vuelve a buscar a Pral para la revancha — esta vez con solo 1 cómplice bandido en vez de 3. |
 
 ## PNJs conocidos
 
@@ -18,7 +19,7 @@ Flags y hechos que persisten entre sesiones. Se actualiza al cerrar cada sesión
 
 ## Lugares y elementos del mapa
 
-- **La Espesura — Región 1 (Sendero)**: carro saqueado, encuentro con Mallyn y rastro de Haldryck completados con éxito. Emboscada de Pral: combate perdido por el grupo (sin consecuencias permanentes).
+- **La Espesura — Región 1 (Sendero)**: los 4 encuentros de la tabla ya ocurrieron — carro saqueado, Mallyn y rastro de Haldryck completados con éxito; emboscada de Pral perdida por el grupo (sin consecuencias permanentes). Región completa; el grupo vuelve ahora a buscar la revancha contra Pral.
 
 ## Decisiones clave del grupo
 
