@@ -2,8 +2,8 @@
 
 > Este archivo se actualiza en tiempo real durante la partida. Al cerrar sesión, `/session-end` vuelca lo relevante a `world-state.md` y a un resumen en `../sessions/`, y este archivo se reinicia para la próxima.
 
-**Sesión nº**: —
-**Fecha**: —
+**Sesión nº**: 2
+**Fecha**: 2026-08-24
 **Capítulo/localización actual**: La Espesura — Región 1: Sendero (grupo despierta tras la emboscada de Pral)
 
 ## Personajes
